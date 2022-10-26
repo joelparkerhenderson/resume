@@ -1,0 +1,111 @@
+Joel Parker Henderson, Software Developer
+
+joel@joelparkerhenderson.com
+https://linkedin.com/in/joelparkerhenderson
+https://github.com/joelparkerhenderson
+
+OBJECTIVE
+
+Software developer at startup, pre-series-A, to grow the team, product, and impact.
+
+SKILL HIGHLIGHTS
+
+Programmer: production software using a wide range of languages/stacks/tools.
+Entrepreneur: 5 VC-funded startups, many open source projects, and a nonprofit.
+Leader: head of 10 technology teams launching strategic software product initiatives.
+
+STACK HIGHLIGHTS
+
+Full-stack: Ruby on Rails, Elixir Phoenix, Rust Rocket, Node Express, Python Django.
+Back-end: Unix, SQL, AWS, APIs, DevOps, CI/CD, TDD/BDD, IaC, Terraform, Ansible.
+Front-end: PETAL, HTML, CSS, JavaScript, iOS Swift, Android Kotlin, mobile-first UI.
+
+EXPERIENCE HIGHLIGHTS
+
+CTO at Commissary Club - Y Combinator VC - 2019–2021
+- Launched MVP for flagship social network from 0 to 100 MAUs, leading all tech aspects.
+- Oversaw the buildout of the platform, website, mobile app, APIs, hosting, from 0 to MVP.
+- Directed10 employees and consultants, lead developer, lead designer, lead analyst.
+
+CTO Engineering Consultant at Omniex Holdings - Jump Capital VC - 2018
+- Led front-end team of 6, developing fintech blockchain product with React & JavaScript.
+- Researched and coded next-gen product with Svelte, TypeScript, Node, from 0 to HiFi.
+- Advised CTO & CEO on tech best practices, PPM/ WBS, hiring/recruiting of 3 leads.
+
+Principal Consultant at ThoughtWorks - 2016–2017
+- Grew most-advanced most-profitable team from 0 to 20 FTEs, using iOS and blockchain.
+- Coached $1MM+ engagement clients in Fortune 50 fintech, manufacturing, B2C goods.
+- Grew practices in agile, lean, IaC, devops, pops, EPPM, from 0 to 1000+ GitHub stars.
+
+Lead Software Consultant at Boxbee - 500 Startups VC - 2014-2015
+- Led 5 FTE product team from pre-pitch mocks to winning Launch.com Best New Startup.
+- Led Rails and JavaScript practices, and coded iOS Swift application from 0 to MVP.
+- Coached CEO and PM on MVP roadmap, engineering, architecture, and fundraising.
+
+Technology Consultant at University of California - 2012-2014
+- Programmed secure nationwide UC survey system in Ruby, AWS for 500K users.
+- Scoped mission-critical enterprise email system for $1.5M migration to Python Django.
+- Teamed with BA staff to improve IT via DVCS, API, cloud services, for 50+ IT staff.
+
+Lead Software Consultant & Employee #1 at Handle - Menlo Ventures VC - 2011
+- Programmed productivity web app through successful raise $50K angel then $1MM A.
+- Hired and led engineering team from 0 to 8, coding with Ruby On Rails, LAMP stack.
+- Recruited tech vendors, coding consultants, UI/UX designers, and permanent CTO.
+
+Software Developer Consultant at Lightbox Adspace Networks - 2006-2021
+- Led $1MM+ business process automation for digital display network of 100MM MAUs.
+- Hired and led engineering team from 0 to 8, coding with Ruby On Rails, LAMP stack.
+- Coded Rails extranet portal, iOS/Android mobile consumer apps, Python custom CDN.
+
+OPEN SOURCE HIGHLIGHTS
+
+Architecture Decision Record: tactics to evaluate technology
+- Learn how leaders and experts  make smarter choices about the best tools for the job.
+- Compare industry-leading decision record templates, their strengths, and their steps..
+- https://github.com/joelparkerhenderson/architecture-decision-record
+
+Git Alias: command line accelerators for version control
+- Hundreds of git alias configuration options to make git easier, faster, and smarter.
+- Run commands for branches, workflows, topics, charts, churn, and optimizations.
+- https://github.com/gitalias/gitalias
+
+Assertables: Rust crate of assertion macros for testing
+- Upgrade your Rust test driven development (TDD) with smarter semantic macros.
+- Compare values, sets, bags, file text, process commands, function returns, and more.
+- https://github.com/sixarm/assertables-rust-crate
+
+BoldContacts: mobile app for disability accessibility
+- Help  loved ones stay in touch even when they have vision/motor/cognitive disabilities.
+- Improve accessibility for patients experiencing Alzheimer’s, Parkinson’s, MS, and ALS.
+- https://github.com/sixarm/BoldContacts
+
+Queueing theory: an introduction for software development
+- Learn about queues for services, workflows, streams,and  distributed programming..
+- Understand arrival rates, utilization ratios, error percentages, lead time, and more.
+- https://github.com/joelparkerhenderson/queueing-theory
+
+Unicode Separated Values: data exchange standard
+- Upgrade data files and streams beyond typical comma/tab separated values (CSV/TSV).
+- Handle data that contains commas, semicolons, quotes, tabs, newlines, and more.
+- https://github.com/sixarm/usv
+
+Num Command: number utilities for  mathematics
+- Calculate statistics and analytics on  the command line entirely with standard POSIX.
+- Do math on aggregations, deviations, moments, quartiles, kurtosis, skewness, and more.
+- https://github.com/numcommand/num
+
+Stable Diffusion: image prompt gallery
+- Generate novel kinds of artwork by using artificial intelligence machine learning.
+- Focus is on user-friendly comparisons of artists, mythologies, techniques, and more.
+- https://github.com/joelparkerhenderson/stable-diffusion-image-prompt-gallery
+
+Unaccent: Ruby gem for string processing
+- Use Ruby and Unicode to process string accented characters to unaccented equivalents.
+- Has millions of downloads and full compatibility with every Ruby release for 15+ years.
+- https://github.com/sixarm/sixarm_ruby_unaccent
+
+Unix shell script tactics: a style guide
+- Coach programmers on best practices to improve reliability, portability,  and security.
+- Provide source code for utility functions, options parsing, error handling, and more.
+- https://github.com/sixarm/unix-shell-script-tactics
+
