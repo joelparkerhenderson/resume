@@ -63,7 +63,7 @@ Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Exce
 - Led Rails and JavaScript practices, and coded iOS Swift application from 0 to MVP.
 - Coached CEO and PM on MVP roadmap, engineering, architecture, and fundraising.
 
-**Technology Consultant at University of California - 2012-2014**
+**IS/IT Programmer at University of California   2012-2013**
 - Programmed secure nationwide UC survey system in Ruby, AWS for 500K users.
 - Scoped mission-critical enterprise email system for $1.5M migration to Python Django.
 - Teamed with BA staff to improve IT via DVCS, API, cloud services, for 50+ IT staff.
