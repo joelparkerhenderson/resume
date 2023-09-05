@@ -15,7 +15,7 @@ Entrepreneur: 5 VC-funded startups, 3 enterprise digital initiatives, and 2 nonp
 
 ## Stack Highlights
 
-Full-stack: Ruby on Rails, Elixir Phoenix, Rust Rocket, Node Express, Python Django.
+Full-stack: Ruby on Rails, Elixir Phoenix, Rust Axum, Node Express, Python Django.
 
 Back-end: Unix, SQL, AWS, APIs, DevOps, CI/CD, TDD/BDD, IaC, Terraform, Ansible.
 
