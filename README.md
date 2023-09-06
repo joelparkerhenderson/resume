@@ -134,36 +134,36 @@ Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Exce
 ## Guide book publications for technology leaders and practitioners
 
 **Startup Business Guide**
-- <https://gumroad.com/l/startup-business-guide>
 - Covers startup concepts that help with entrepreneurship. 
 - Examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology sectors, company roles and responsibilities, sales and marketing, venture capital (VC) investment, legal entities, and work contracts.
+- <https://gumroad.com/l/startup-business-guide>
 
 **Innovation Partnership Guide**
-- <https://gumroad.com/l/innovation-partnership-guide>
 - Covers innovation creation collaborations among organizations. 
 - Examples are joint venture approaches, culture of innovation, strategic alignment, long waves, Partnership Readiness Level (PRL), Partner Relationship Management (PRM), technology transfer agreements, spinoffs and spinouts, AI, and business analysis tools.
+- <https://gumroad.com/l/innovation-partnership-guide>
 
 **Business Lingo Guide**
-- <https://gumroad.com/l/business-lingo-guide>
 - Covers popular terminology that shows up in US-oriented workplaces and projects. 
 - Examples are aphorisms "Conway's Law" and "The Pareto Principle", idioms "Get on the front foot" and "Unknown unknowns", and quotations "Execution eats strategy for lunch" and "Make mistakes faster". This guide accelerates team cross-cultural communication.
+- <https://gumroad.com/l/business-lingo-guide>
 
 **Project Management Guide**
-- <https://gumroad.com/l/project-management-guide>
 - Covers concepts that help with leading projects, programs, and portfolios. 
 - Examples are Project Management Life Cycle (PMLC), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, agile, lean, Kanban, and kaizen.
+- <https://gumroad.com/l/project-management-guide>
 
 **UI/UX Design Guide**
-- <https://gumroad.com/l/ui-ux-design-guide>
 - Covers user interface (UI) design and user experience (UX) development. 
 - Examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, model diagrams, affordances, accessibility, internationalization/localization, UI/UX testing, and AI for UI/UX.
+- <https://gumroad.com/l/ui-ux-design-guide>
 
 **AI Starter Guide**
-- <https://gumroad.com/l/ai-starter-guide>
 - Covers artificial intelligence topics and machine learning approaches. 
 - Examples are AI tools for processes, AI benefits for industry sectors, AI ethics, neural networks, supervised/ unsupervised learning, ensembles, clustering, anomaly detection, dimensionality reduction, loss functions, kernel tricks, and AI/ML performance metrics.
+- <https://gumroad.com/l/ai-starter-guide>
 
 **Software Programming Guide**
-- <https://gumroad.com/l/software-programming-guide>
 - Covers industry practices for software programming, development, and deployment. 
 - Examples are programming paradigms, algorithms and data structures, design patterns, database implementations, distributed ledgers, asynchronicity, concurrency, parallelism, monolith and microservice architectures, testing, version control, devops, and security.
+- <https://gumroad.com/l/software-programming-guide>
