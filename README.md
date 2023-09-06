@@ -5,12 +5,12 @@
 - <https://github.com/joelparkerhenderson>
 - <https://linktr.ee/joelparkerhenderson>
 
-Download this résumé in these formats:
+Download résumé:
 
 - [Download PDF file](joelparkerhenderson-resume.pdf)
 - [Download Markdown file](joelparkerhenderson-resume.md)
 - [Download Office file](joelparkerhenderson-resume.odg)
- 
+
 ## Skill Highlights
 
 Programmer: Hands-on coder of software using a wide range of languages/stacks/tools.
@@ -130,8 +130,7 @@ Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Exce
 - Has millions of downloads and full compatibility with every Ruby release for 15+ years.
 - <https://github.com/sixarm/sixarm_ruby_unaccent>
 
-
-## Guide book publications for technology leaders and practitioners
+## Guide Book Publications for Technology Leaders &amp; Practitioners
 
 **Startup Business Guide**
 - Covers startup concepts that help with entrepreneurship. 
