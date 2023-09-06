@@ -63,7 +63,7 @@ Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Exce
 - Led Rails and JavaScript practices, and coded iOS Swift application from 0 to MVP.
 - Coached CEO and PM on MVP roadmap, engineering, architecture, and fundraising.
 
-**Technology Consultant at University of California - 2012-2014**
+**IS/IT Programmer at University of California   2012-2013**
 - Programmed secure nationwide UC survey system in Ruby, AWS for 500K users.
 - Scoped mission-critical enterprise email system for $1.5M migration to Python Django.
 - Teamed with BA staff to improve IT via DVCS, API, cloud services, for 50+ IT staff.
@@ -75,15 +75,15 @@ Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Exce
 - Compare industry-leading decision record templates, their strengths, and their steps..
 - <https://github.com/joelparkerhenderson/architecture-decision-record>
 
-**Startup Business Primer: Strategy, Tactics, Concepts, Inspirations**
-- 500+ page ebook to help you create a startup, raise money, and find product-market fit.
-- Covers strategic effects, business roles, project planning, and ideas to help you succeed.
-- <https://joelparkerhenderson.gumroad.com/l/startup>
-
 **Queueing theory: an introduction for software development**
 - Learn about queues for services, workflows, streams,and  distributed programming..
 - Understand arrival rates, utilization ratios, error percentages, lead time, and more.
 - <https://github.com/joelparkerhenderson/queueing-theory>
+
+**Stable Diffusion: image prompt gallery**
+- Generate novel kinds of artwork by using artificial intelligence machine learning.
+- Focus is on user-friendly comparisons of artists, mythologies, techniques, and more.
+- <https://github.com/joelparkerhenderson/stable-diffusion-image-prompt-gallery>
 
 ## Public Project Highlights For Technologists
 
@@ -97,15 +97,10 @@ Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Exce
 - Handle data that contains commas, semicolons, quotes, tabs, newlines, and more.
 - <https://github.com/sixarm/usv>
 
-**Stable Diffusion: image prompt gallery**
-- Generate novel kinds of artwork by using artificial intelligence machine learning.
-- Focus is on user-friendly comparisons of artists, mythologies, techniques, and more.
-- <https://github.com/joelparkerhenderson/stable-diffusion-image-prompt-gallery>
-
-**BoldContacts: mobile app for disability accessibility**
-- Help  loved ones stay in touch even when they have vision/motor/cognitive disabilities.
-- Improve accessibility for patients experiencing Alzheimer’s, Parkinson’s, MS, and ALS.
-- <https://github.com/sixarm/BoldContacts>
+**Unix shell script tactics: a style guide**
+- Coach programmers on best practices to improve reliability, portability,  and security.
+- Provide source code for utility functions, options parsing, error handling, and more.
+- https://github.com/sixarm/unix-shell-script-tactics
 
 ## Public Product Highlights For Programmers
 
@@ -129,3 +124,40 @@ Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Exce
 - Has millions of downloads and full compatibility with every Ruby release for 15+ years.
 - <https://github.com/sixarm/sixarm_ruby_unaccent>
 
+
+## Guide book publications for technology leaders and practitioners
+
+**Startup Business Guide**
+- <https://gumroad.com/l/startup-business-guide>
+- Covers startup concepts that help with entrepreneurship. 
+- Examples are pitch decks, market/customer/product discovery, product-market fit (PMF), minimum viable product (MVP), technology sectors, company roles and responsibilities, sales and marketing, venture capital (VC) investment, legal entities, and work contracts.
+
+**Innovation Partnership Guide**
+- <https://gumroad.com/l/innovation-partnership-guide>
+- Covers innovation creation collaborations among organizations. 
+- Examples are joint venture approaches, culture of innovation, strategic alignment, long waves, Partnership Readiness Level (PRL), Partner Relationship Management (PRM), technology transfer agreements, spinoffs and spinouts, AI, and business analysis tools.
+
+**Business Lingo Guide**
+- <https://gumroad.com/l/business-lingo-guide>
+- Covers popular terminology that shows up in US-oriented workplaces and projects. 
+- Examples are aphorisms "Conway's Law" and "The Pareto Principle", idioms "Get on the front foot" and "Unknown unknowns", and quotations "Execution eats strategy for lunch" and "Make mistakes faster". This guide accelerates team cross-cultural communication.
+
+**Project Management Guide**
+- <https://gumroad.com/l/project-management-guide>
+- Covers concepts that help with leading projects, programs, and portfolios. 
+- Examples are Project Management Life Cycle (PMLC), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, agile, lean, Kanban, and kaizen.
+
+**UI/UX Design Guide**
+- <https://gumroad.com/l/ui-ux-design-guide>
+- Covers user interface (UI) design and user experience (UX) development. 
+- Examples are User-Centered Design (UCD), Information Architecture (IA), design management, task analysis, ideation, mockups, use cases, user stories, model diagrams, affordances, accessibility, internationalization/localization, UI/UX testing, and AI for UI/UX.
+
+**AI Starter Guide**
+- <https://gumroad.com/l/ai-starter-guide>
+- Covers artificial intelligence topics and machine learning approaches. 
+- Examples are AI tools for processes, AI benefits for industry sectors, AI ethics, neural networks, supervised/ unsupervised learning, ensembles, clustering, anomaly detection, dimensionality reduction, loss functions, kernel tricks, and AI/ML performance metrics.
+
+**Software Programming Guide**
+- <https://gumroad.com/l/software-programming-guide>
+- Covers industry practices for software programming, development, and deployment. 
+- Examples are programming paradigms, algorithms and data structures, design patterns, database implementations, distributed ledgers, asynchronicity, concurrency, parallelism, monolith and microservice architectures, testing, version control, devops, and security.
