@@ -5,6 +5,12 @@
 - <https://github.com/joelparkerhenderson>
 - <https://linktr.ee/joelparkerhenderson>
 
+Download this résumé in these formats:
+
+- [Download PDF file](joelparkerhenderson-resume.pdf)
+- [Download Markdown file](joelparkerhenderson-resume.md)
+- [Download Office file](joelparkerhenderson-resume.odg)
+ 
 ## Skill Highlights
 
 Programmer: Hands-on coder of software using a wide range of languages/stacks/tools.
