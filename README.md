@@ -13,29 +13,21 @@ Download résumé:
 
 ## Skill Highlights
 
-Programmer: Hands-on coder of software using a wide range of languages/stacks/tools.
+**Role Skills**
+- Leader: Principal technologist for strategic software initiatives, products, and programs.
+- Programmer: Hands-on coder for agile product-led high-quality continuous delivery.
+- Creator: 5 VC startups, 3 digital transformations, 6 guidebooks, 1MM OSS downloads.
 
-Leader: Principal technologist for digital transformations and strategic product initiatives.
+**Technology Skills**
+- Full-stack: Ruby on Rails, Elixir Phoenix, Rust Axum, Node Express, Python Django.
+- Back-end: Unix, SQL, AWS, APIs, TDD,  CI/CD, QA, DevOps, IaC, Terraform, Ansible.
+- Front-end: HTML, CSS, BEM, JavaScript, iOS, Android, Adobe CC, UI/UX tools, UML.
 
-Entrepreneur: 5 VC-funded startups, 3 enterprise digital initiatives, and 2 nonprofits.
+**Management Skills**
+- Product Management: PLG with SDLC built on ways of working with KPIs, ADRs, SQAs.
+- Project Management: EPPM with agile, Kanban, Lean, Scrum, Kaizen, PRINCE2, CAST..
+- Stakeholder Management: RACI involving users, partners, contractors, suppliers, VARs.
 
-## Stack Highlights
-
-Full-stack: Ruby on Rails, Elixir Phoenix, Rust Axum, Node Express, Python Django.
-
-Back-end: Unix, SQL, AWS, APIs, DevOps, CI/CD, TDD/BDD, IaC, Terraform, Ansible.
-
-Front-end: HTML, CSS, JavaScript, iOS, Android, Adobe CC, UI/UX tools, UML.
-
-## Keyword Highlights
-
-UI/UX: Adobe CC, Photoshop, Illustrator, XD, Figma, Sketch, Miro, Mockups, Wireframes. 
-
-CSS/JS: Tailwind, Alpine, SASS, Bootstrap, HTMX, Bulma, Semantic UI, BEM, jQuery.
-
-EPPM: Agile, Kanban, Lean, Scrum, Kaizen, Jira, Trello, Portfolio Project Management.
-
-Data: SQL, Postgres, MySQL, Oracle, SQLite, ETL, JSON, Protobuf, gRPC, CSV, Excel. 
 
 ## Experience Highlights
 
