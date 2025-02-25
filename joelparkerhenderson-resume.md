@@ -8,8 +8,8 @@
 Download résumé:
 
 - [Download PDF file](joelparkerhenderson-resume.pdf)
-- [Download Markdown file](joelparkerhenderson-resume.md)
 - [Download Office file](joelparkerhenderson-resume.odg)
+- [Download Markdown file](joelparkerhenderson-resume.md)
 
 ## Skill Highlights
 
