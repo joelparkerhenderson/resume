@@ -8,14 +8,14 @@
 Download résumé:
 
 - [Download PDF file](joelparkerhenderson-resume.pdf)
-- [Download Office file](joelparkerhenderson-resume.odg)
 - [Download Markdown file](joelparkerhenderson-resume.md)
+- [Download Office file](joelparkerhenderson-resume.odg)
 
 ## Skill Highlights
 
 **Leader:** Principal technologist for strategic software initiatives in startups & enterprises.
 
-**Programmer:** Hands-on senior coder with a wide range of languages, stacks, and tools.
+**Programmer:** Hands-on coder for agile product-led high-quality continuous delivery.
 
 **Entrepreneur:** 5 venture-funded startups, 3 enterprise digital initiatives, and 2 nonprofits.
 
